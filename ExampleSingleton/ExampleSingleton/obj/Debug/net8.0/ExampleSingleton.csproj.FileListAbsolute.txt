@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\bin\Debug\net8.0\ExampleSingleton.exe
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\bin\Debug\net8.0\ExampleSingleton.deps.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\bin\Debug\net8.0\ExampleSingleton.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\bin\Debug\net8.0\ExampleSingleton.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\bin\Debug\net8.0\ExampleSingleton.pdb
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.sourcelink.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\refint\ExampleSingleton.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.pdb
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ExampleSingleton.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\ExampleSingleton\ExampleSingleton\obj\Debug\net8.0\ref\ExampleSingleton.dll
