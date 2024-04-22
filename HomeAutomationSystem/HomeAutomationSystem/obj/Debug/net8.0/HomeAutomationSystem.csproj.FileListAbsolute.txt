@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.exe
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.deps.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.pdb
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.sourcelink.json
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\refint\HomeAutomationSystem.dll
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.pdb
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Документи\GitHub\07-signleton-DmytroKovinskyi\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\ref\HomeAutomationSystem.dll
